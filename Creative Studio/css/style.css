@@ -1,0 +1,323 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial;
+}
+
+img {
+  display: block;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 960px;
+  margin: 0px auto;
+}
+
+.head {
+  width: 100%;
+  float: left;
+  padding: 20px 0px;
+  margin-bottom:20px;
+  background: #fff;
+  border-bottom: 2px solid #000;
+  position: fixed;
+  z-index: 1;
+}
+
+.TYO{
+  width: 960px;
+  margin: 0 auto;
+}
+
+.first{
+  color:Orange
+}
+
+.logo {
+  float: left;
+  width: 183px;
+  min-height:100px;
+}
+
+.menu {
+  float: right;
+  margin: 50px 0px 20px;
+  min-height: 10px;
+  width: 660px;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  float: right;
+}
+
+.menu ul li{
+  float: left;
+  margin: 0 0 0 25px;
+}
+
+.menu ul li.first{
+  margin: 0px;
+}
+
+.menu ul li a{
+  text-decoration: none;
+  color: orange;
+}
+
+.menu ul li.first a{
+  color: black;
+}
+
+
+.banner {
+  width: 100%;
+  position: relative;
+  background: #fb9400 url(../images/slideBg.jpg) repeat-x;
+  float: left;
+  margin-bottom: 20px;
+  margin-top: 177px;
+  padding: 0px;
+}
+
+.banner_text {
+  width: 480px;
+  float: left;
+  padding: 30px 0 20px 25px;
+  min-height: 380px;
+  box-sizing: border-box;
+}
+.banner_text h2{
+  font-size: 85px;
+  line-height: 0.9;
+  font-weight:bold;
+  text-transform:uppercase;
+  color: white;
+  margin: 0px;
+}
+
+.banner_image {
+  float: right;
+  margin: 0px;
+  padding: 0px;
+}
+
+.button {
+    width: 427px;
+    background: #090909;
+    padding: 17px 12px;
+    margin: 25px 0px;
+    float: left;
+}
+
+.text {
+  float: left;
+  margin: 0px;
+  color: #999898;
+}
+
+.link {
+  float: right;
+  color: #fe9b00;
+  text-decoration: none;
+}
+
+.background {
+  width: 100%;
+  float: left;
+  padding: 25px 0px 40px 0px;
+  margin-bottom:20px;
+}
+
+.banner_text1{
+  float: left;
+  width: 282px;
+  min-height:200px;
+  box-sizing: border-box;
+
+}
+.title{
+  margin: 0px;
+  padding: 10px 0;
+  border-bottom: 2px solid;
+}
+.link2{
+  color: #fe9b00;
+  text-decoration: none;
+}
+
+.banner_text2{
+  float:left;
+  margin: 0px 57px 0px 57px;
+  min-height: 200px;
+  width: 282px;
+  box-sizing: border-box
+}
+.title2{
+  margin: 0px;
+  padding: 10px 0;
+  border-bottom: 2px solid;
+}
+.tabl li{
+  margin-bottom: 15px;
+  list-style-image: url(../images/images/Tot.jpg);
+}
+
+.banner_text3{
+  float:left;
+  min-height: 200px;
+  width: 282px;
+  box-sizing: border-box
+}
+
+.title3{
+  margin: 0px;
+  padding: 10px 0;
+  border-bottom: 2px solid;
+}
+.portfolio{
+  width: 100%;
+  float: left;
+  padding: 20px 0px 40px 0px;
+  margin-bottom:20px;
+}
+
+.portfolio p{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  margin: 0;
+  padding: 2px 5px;
+  background: orange;
+}
+
+.Foto1{
+  float:left;
+  width: 215px;
+  min-height:100px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.Foto2{
+  float:left;
+  margin: 0px 33px 0px 34px;
+  width: 215px;
+  min-height:100px;
+  position: relative;
+}
+
+.Foto3{
+  float:left;
+  margin: 0px 32px 0px 0px;
+  width: 215px;
+  min-height:100px;
+  position: relative;
+}
+
+.Foto4{
+  float:left;
+  width: 215px;
+  min-height:100px;
+  position: relative;
+}
+.blogupdatesconnections{
+  width: 100%;
+  float: left;
+  padding: 25px 0px 50px 0px;
+  margin-bottom:20px;
+}
+
+.tex{
+  float: left;
+  min-height: 100px;
+  width: 660px;
+}
+
+.contakt{
+  float: left;
+  margin: 0px 45px 0px 80px;
+  min-height: 100px;
+  width: 170px;
+}
+
+.Foto5{
+    float:left;
+    margin: 0px 0px 0px 10px;
+    min-height: 100px;
+}
+
+.Foto6{
+    float:left;
+    margin: 0px 0px 0px 10px;
+    min-height: 100px;
+}
+
+.Foto7{
+    float:left;
+    margin: 0px 0px 0px 10px;
+    min-height: 100px;
+}
+
+.Foto8{
+    float:left;
+    margin: 0px 0px 0px 10px;
+    min-height: 100px;
+}
+
+.footer{
+  width: 100%;
+  background:#eae6e6;
+  float: left;
+  padding: 20px 0px;
+  margin-bottom:20px;
+}
+
+.logo2{
+  float: right;
+  margin: 0px 0px 0px 0px;
+  width: 183px;
+  min-height: 100px;
+  margin-right: 23.5%;
+}
+.Foto9{
+  float: right;
+  margin: 0px 25px 0px 0px;
+  min-height: 100px;
+}
+
+.text2{
+  float: left;
+  margin: 0px 0px 0px 320px;
+  width: 430px;
+}
+.text2 ul {
+  list-style: none;
+  padding: 0px;
+  margin:0 5 0 0px;
+  float: left;
+}
+
+.text2 ul li{
+  float: left;
+  margin: 0 0 0 5px;
+}
+
+.text2 ul li.font{
+  margin: 0px;
+}
+
+.text2 ul li a{
+  text-decoration: none;
+  color: #808080;
+}
+
+.text2 ul li.font a{
+  color: #808080;
+}

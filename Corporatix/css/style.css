@@ -1,0 +1,318 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #dadfeb;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 960px;
+  margin: 0px auto;
+}
+
+.head {
+  width: 100%;
+  float: left;
+  padding: 5px 0px;
+  margin-bottom:20px;
+  background:#d4dbee url(../images/Linia_Wrio_01.jpg) repeat-x;
+  border-bottom: 2px solid #000;
+  position: fixed;
+  z-index: 1;
+}
+
+.logo {
+  float: left;
+  margin: 25px 45px 0px 0px;
+  width: 183px;
+  min-height:100px;
+}
+
+.button{
+  background: linear-gradient(0deg, #c7c7c7, white);
+  text-shadow: 5px;
+  border-radius: 10px;
+  box-shadow:0 0 10px rgba(0,0,0,0.5);
+  padding: 5px 10px;
+}
+
+.menu {
+  float: right;
+  margin: 45px 30px 30px 0;
+  min-height: 10px;
+  width: 660px;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  float: right;
+}
+
+.menu ul li{
+  float: left;
+  margin: 0 0 0 25px;
+}
+
+.menu ul li.first{
+  margin: 0px;
+}
+
+.menu ul li a{
+  color: blue;
+  text-decoration: none;
+}
+
+.banner {
+  position: relative;
+  width:100%;
+  background: #ffffff url(../images/corporatix_10.jpg) repeat-x;
+  float: left;
+  min-height: 500px;
+  margin-top: 137px;
+}
+.banner_image{
+  width:100%;
+  background: url(../images/Pusir_06.png) no-repeat top center;
+  float: left;
+  min-height: 500px;
+}
+
+.background{
+  width:100%;
+  float: left;
+  min-height:120px;
+  margin-bottom: 20px;
+  padding:25px 0px 50px 33px;
+}
+
+.banner_text{
+  font-family: "Arial";
+  font-size: 37px ;
+  color:#1d2d4d;
+  width:63%;
+  float: left;
+  min-height:70;
+  box-sizing: border-box;
+}
+
+.background_image {
+  position:absolute;
+  float: right;
+  margin: 0px 40px 0px 40px;
+  padding: 0px;
+}
+.background_image2{
+  float: left;
+  margin-top: 20px;
+}
+.Item{
+  float: left;
+  width: 100%;
+  padding: 20px 0px 40px 0px;
+  margin-bottom: 20px;
+  min-height: 380px;
+}
+.text{
+  background-color:#FFFFFF;
+  float: left;
+  width: 218px;
+  min-height: 316px;
+  padding: 0px 10px 0px 10px;
+}
+.text2{
+  background-color:#FFFFFF;
+  float: left;
+  margin: 0px 33px 0px 23px;
+  width: 218px;
+  min-height: 316px;
+  padding: 0px 10px 0px 10px;
+}
+
+.text3{
+  background-color:#FFFFFF;
+  float: left;
+  margin: 0px 32px 0px 0px;
+  width: 218px;
+  min-height: 316px;
+  padding: 0px 10px 0px 10px;
+}
+
+.text4{
+  background-color:#FFFFFF;
+  float: left;
+  width: 218px;
+  min-height: 316px;
+  padding: 0px 10px 0px 10px;
+}
+.Foto{
+  margin: 20px 20px 20px 10px;
+  float: left;
+  width: 180px;
+  min-height: 110px;
+}
+.Foto2{
+  margin: 20px 20px 20px 10px;
+  float: left;
+  width: 180px;
+  min-height: 110px;
+}
+.Foto3{
+  margin: 20px 20px 20px 10px;
+  float: left;
+  width: 180px;
+  min-height: 110px;
+}
+.Foto4{
+  margin: 20px 20px 20px 10px;
+  float: left;
+  width: 180px;
+  min-height: 110px;
+}
+.Emoji{
+  float: left;
+  width: 100%;
+  min-height: 255px;
+}
+.Stikir{
+  float: left;
+  width: 480px;
+  padding: 0px 0px 0px 0px;
+  min-height: 380px;
+  box-sizing: border-box;
+}
+.vila{
+    float: left;
+    margin: 20px 10px 0px 10px;
+    width: 210px;
+    min-height:115px;
+}
+.vila1{
+    margin: 20px 0px 0px 10px;
+    float: left;
+    width: 210px;
+    min-height:115px;
+}
+.vila2{
+    margin: 20px 10px 0px 10px;
+    float: left;
+    width: 210px;
+    min-height:115px;
+}
+.vila3{
+    margin: 20px 0px 0px 10px;
+    float: left;
+    width: 210px;
+    min-height:115px;
+}
+.Foto5{
+    float: left;
+    width: 50px;
+    min-height: 50px;
+}
+.Foto6{
+    float: left;
+    width: 50px;
+    min-height: 50px;
+}
+.Foto7{
+    float: left;
+    width: 50px;
+    min-height: 50px;
+  }
+.Foto8{
+    float: left;
+    width: 50px;
+    min-height: 50px;
+}
+.banner_text2{
+    float: left;
+    margin: 0px 0px 20px 0px;
+    width:452px;
+    min-height:295px;
+}
+.text_Folor{
+ line-height:24px;
+}
+
+.bord{
+  width: 100%;
+  background:#565f81;
+  float: left;
+}
+
+.bord>div{
+  width: 960px;
+  margin: 0 auto;
+}
+.SCHOOL{
+  float: left;
+  width: 430px;
+}
+.SCHOOL ul {
+  list-style: none;
+  padding: 0px;
+  margin:0 5 0 0px;
+  float: left;
+}
+
+.SCHOOL ul li{
+  float: left;
+  padding: 0px 8px;
+  border-right: 1px solid #b0b7c9;
+}
+
+.SCHOOL ul li:last-child{
+  float: left;
+  border-right: 0px solid #b0b7c9;
+}
+
+.font{
+  margin: 0px;
+  color: #b0b7c9;
+}
+.SCHOOL ul li.font{
+  margin: 0px;
+}
+
+.SCHOOL ul li a{
+  text-decoration: none;
+  color: #b0b7c9;
+}
+
+.SCHOOL ul li.font a{
+  color: #b0b7c9;
+}
+.logo2{
+  float: right;
+  width:35% ;
+  min-height:90px;
+  margin-top:25px;
+}
+.Foto9{
+    float:left;
+    margin: 0px 0px 0px 10px;
+    min-height: 100px;
+}
+
+.Foto10{
+    float:left;
+    margin: 0px 0px 0px 10px;
+    min-height: 100px;
+}
+
+.Foto11{
+    float:left;
+    margin: 0px 0px 0px 10px;
+    min-height: 100px;
+}
+
+.Foto12{
+    float:left;
+    margin: 0px 0px 0px 10px;
+    min-height: 100px;
+}
